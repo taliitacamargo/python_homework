@@ -1,0 +1,13 @@
+Function: something
+Positional Parameters: none
+Keyword Parameters: none
+Return: None
+Function: anyNum
+Positional Parameters: (2, 'done')
+Keyword Parameters: none
+Return: True
+Function: anyAny
+Positional Parameters: none
+Keyword Parameters: {'color': 'red'}
+Return: <function logger_decorator at 0x102da9dd0>
+
